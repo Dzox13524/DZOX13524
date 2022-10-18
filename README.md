@@ -1,4 +1,4 @@
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> HI.. I'M DZOX Beta Version
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> HI.. I'M AHMAD Beta Version
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗪𝗲𝗹𝗹𝗰𝗼𝗺𝗲+𝗧𝗼+𝗔𝗵𝗺𝗮𝗱+𝗕𝗼𝘁.;𝙿𝚘𝚠𝚎𝚛𝚍+𝙱𝚢:+𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:𝔸𝕙𝕞𝕒𝕕;💕NEWBIE+WHO+WILL+CONTINUE+TO+GROW!!!🙃;😁𝕬𝖍𝖒𝖆𝖉)](https://git.io/typing-svg)
 
