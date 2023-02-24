@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkxs&label=Profile%20views&color=0e75b6&style=flat" alt="dkxs" /> 
 </p> 
 
-[![GitHub stars](https://badgen.net/github/stars/Dkxs/bot-gwe1)](https://GitHub.com/Dkxs/bot-gwe1) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I’m currently learning **Web Development and other programming languages.**
 
 <h3 align="left">Connect with me:</h3>
