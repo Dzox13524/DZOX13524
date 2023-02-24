@@ -1,5 +1,5 @@
 ## <p align="center">
-<a href="https://wa.me/6282141404209"><img align="center" src="https://cardivo.vercel.app/api?name=Ahmad+Dev&description=Hi,%20i%27m%20newbie%20Developer&image=https://avatars.githubusercontent.com/Dzox13524&usqp=CAU&backgroundColor=%23ecf0f1&github=Dzox13524&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://wa.me/6282141404209"/></a>
+<a href="https://wa.me/6282141404209"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Ahmad+Dev&description=Hi, i'm a beginner developer, Nice to meet you&image=https://avatars.githubusercontent.com/Dzox13524&usqp=CAU&backgroundColor=%23ecf0f1&github=Dzox13524&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://wa.me/6282141404209"/></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkxs&label=Profile%20views&color=0e75b6&style=flat" alt="dkxs" /> 
